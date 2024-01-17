@@ -1,0 +1,30 @@
+
+# Clion Setup
+
+### Step 1:
+Go to [here to get verified as a student](https://www.jetbrains.com/community/education/#students/)
+
+Scroll down to "Get free access to all developer tools from JetBrains!" and click apply now
+
+Enter Uni email address and fill in the rest of the form.
+
+You should receive a verification email to your uni account, and then once you open that it prompts you to create a Jetbrains account.
+
+### Step 2:
+Download Jetbrains Clion:
+[here](https://www.jetbrains.com/clion/download/)
+
+(on mac make sure to select the right version, Intel vs Apple silicon)
+
+### Step 3:
+Sign into your jetbrains account with the password you made and launch the editor.
+
+### Step 4:
+open the folder you cloned in Clion
+
+### Step 5: 
+open a CPP file and click add configuration (top right) => edit configurations => in the form set the source file as the file you currently have open.
+
+Now you can click the green play button at the top right of the page to run the code, or the bug icon to run with the debugger/breakpoints
+
+When you open a new file, edit the config at the top to the source file of the file you want to run. Unfortunately you have to change/create a new config for every file you work on.
