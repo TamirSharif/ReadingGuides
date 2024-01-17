@@ -25,11 +25,11 @@ Clone using the git command line, and open the folder from csgitlab in Clion (wh
 
 ### Step 5: 
 open a CPP file and click
-  Add configuration (top right) =>
-  Edit configurations => 
-  Click the plus button (top left of pop up) => 
-  Click C/C++ File =>
-  Click Okay (bottom right of the pop up)
+  - Add configuration (top right) =>
+  - Edit configurations => 
+  - Click the plus button (top left of pop up) => 
+  - Click C/C++ File =>
+  - Click Okay (bottom right of the pop up)
 
   
 In the form set the source file as the file you currently have open.
