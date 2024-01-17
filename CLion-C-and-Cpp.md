@@ -1,5 +1,6 @@
 
 # Clion Setup
+### This is a alternative for Pat's Visual Studio setup, if on windows just stick to Visual Studio
 
 ### Step 1:
 Go to [here to get verified as a student](https://www.jetbrains.com/community/education/#students/)
