@@ -24,11 +24,12 @@ Clone using the git command line, and open the folder from csgitlab in Clion (wh
 
 ### Step 5: 
 open a CPP file and click
-  add configuration (top right) =>
-  edit configurations => 
-  click the plus button (top left of pop up) => 
-  click C/C++ File
-
+  Add configuration (top right) =>
+  Edit configurations => 
+  Click the plus button (top left of pop up) => 
+  Click C/C++ File =>
+  Click Okay (bottom right of the pop up)
+  
 In the form set the source file as the file you currently have open.
 
 Now you can click the green play button at the top right of the page to run the code, or the bug icon to run with the debugger/breakpoints
