@@ -30,6 +30,7 @@ open a CPP file and click
   Click the plus button (top left of pop up) => 
   Click C/C++ File =>
   Click Okay (bottom right of the pop up)
+
   
 In the form set the source file as the file you currently have open.
 
