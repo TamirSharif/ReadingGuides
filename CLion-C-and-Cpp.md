@@ -20,10 +20,16 @@ Download Jetbrains Clion:
 Sign into your jetbrains account with the password you made and launch the editor.
 
 ### Step 4:
-Clone using the git command line, and open the folder from csgitlab in Clion (when you open a new Clion window click the middle Open icon)
+Clone using the git command line, and open the folder from csgitlab in Clion (when you open a new Clion window click the middle Open icon). If it suggests to create a project in a pop up 
 
 ### Step 5: 
-open a CPP file and click add configuration (top right) => edit configurations => in the form set the source file as the file you currently have open.
+open a CPP file and click
+  add configuration (top right) =>
+  edit configurations => 
+  click the plus button (top left of pop up) => 
+  click C/C++ File
+
+In the form set the source file as the file you currently have open.
 
 Now you can click the green play button at the top right of the page to run the code, or the bug icon to run with the debugger/breakpoints
 
