@@ -20,7 +20,7 @@ Download Jetbrains Clion:
 Sign into your jetbrains account with the password you made and launch the editor.
 
 ### Step 4:
-open the folder you cloned in Clion
+Clone and open the folder from csgitlab in Clion (when you open a new Clion window click the middle Open icon)
 
 ### Step 5: 
 open a CPP file and click add configuration (top right) => edit configurations => in the form set the source file as the file you currently have open.
